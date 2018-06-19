@@ -16,7 +16,7 @@ public interface Config {
     Integer COLS = 1;
     Integer DATA_SET_SIZE = 5000;
     Integer VAL_SET_SIZE = 50;
-    Integer MARGIN_AROUND = 0; // 10px space around the playground
+    Integer MARGIN_AROUND = 30; // 10px space around the playground
     Integer MARGIN_BETWEEN = 0; // 10px space between the cards
     Integer MAX_ANGLE_TO_ROTATE = 10;
     boolean BLUR = true;
