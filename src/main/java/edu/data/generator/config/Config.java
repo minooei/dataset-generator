@@ -10,8 +10,8 @@ public interface Config {
     String DARKNET_LABELS = "/labels/";
     String DARKNET_CONFIG_DIR = "/DarknetConf/";
     String VOC_LABELS = "/VOCLabels/";
-    Integer IMAGE_WIDTH = 800;
-    Integer IMAGE_HEIGHT = 400;
+    Integer IMAGE_WIDTH = 416;
+    Integer IMAGE_HEIGHT = 416;
     Integer ROWS = 1;
     Integer COLS = 1;
     Integer DATA_SET_SIZE = 5000;
